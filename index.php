@@ -38,7 +38,7 @@
 <body>
 <div class="mainbox">
 <div class="box1">
-    <img src="Photo_Edidiong.jpg" width="300px">
+    <img src="https://github.com/diddydear/p1/blob/master/Photo_Edidiong.jpg" width="300px">
   </div>
 
   <div class="box1">
