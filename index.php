@@ -38,7 +38,7 @@
 <body>
 <div class="mainbox">
 <div class="box1">
-    <img src="https://github.com/diddydear/p1/blob/master/Photo_Edidiong.jpg" width="300px">
+    <img src="Photo_Edidiong.jpg" width="300px">
   </div>
 
   <div class="box1">
@@ -50,11 +50,12 @@
 
   <?php
   $quotes[] = 'Life is a race, beat it';
-  $quotes[] = 'You have what it take, Embrace it';
+  $quotes[] = 'You have what it takes, embrace it!';
   $quotes[] = 'Having an \'A\' isn\'t  rocket science, live with it.';
   $random_number = rand(0,count($quotes)-1);
   echo ($quotes[$random_number]);
 ?>
+
 </div>
 </body>
 </html>
